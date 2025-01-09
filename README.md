@@ -47,9 +47,4 @@ The game features two exciting modes:
      ```
    - Once everything is set up, click the **Run** button to start playing!
 
----
-
-## License
-
-This project is licensed under the MIT License.
 
