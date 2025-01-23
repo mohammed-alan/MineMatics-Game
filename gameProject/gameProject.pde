@@ -1,8 +1,4 @@
 /*
-Starting Note - I know there are lots of things I could do to shorten my code. However, that is what worked for me and that is what I continued to work with.
-I do not have an entire page for losing because the purpose of the game is to teach a kid, and I thought displaying the wrong and correct answer makes more sense than displaying
-a new page without telling them what is wrong.
-The states are a little bit messy because I added some pages later on that should be in the middle
 
 DDF Audio Library Import Required
 
